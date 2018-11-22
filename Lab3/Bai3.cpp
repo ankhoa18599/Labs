@@ -9,7 +9,7 @@ class serial
 		serial()
 		{
 	   		static int count=0;
-        	num=++count;
+        		num=++count;
 		}
 		void show()
 		{
